@@ -8,15 +8,11 @@ What is a literal?
 
 ## Answer
 
-In general a literal means taking words in their usual or most basic sense without metaphor or exaggeration.
-
-In computer science, a literal is a notation for representing a fixed value in source code.
-
-In C a literal is a sequence of one or more characters in the source code that represents an immediate value.
+In general a literal means taking words in their usual or most basic sense without metaphor or exaggeration. In computer science, a literal is a notation for representing a fixed value in source code. In C a literal is a sequence of one or more characters in the source code that represents an immediate value.
 
 There are four different types of literals in C:
 
-1. Integer literals which in it most basic form uses numbers only, for example
+1. Integer literals, which in it most basic form uses numbers only, for example
 
     ```C
     60    /* Number of seconds in one minute. */
